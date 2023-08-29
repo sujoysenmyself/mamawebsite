@@ -1409,6 +1409,12 @@ h3.quote::before {
   color: #000000de;
 }
 
+.location_box{
+    margin-top: 30px;
+    margin-bottom: 30px;
+ }
+
+
 
 
 /*# sourceMappingURL=style.css.map */
